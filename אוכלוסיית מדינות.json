@@ -1,0 +1,16 @@
+{
+	"country": [
+		{
+			"name": "United States",
+			"population": 350000000
+		},
+		{
+			"name": "Israel",
+			"population": 9000000
+		},
+		{
+			"name": "Germany",
+			"population": 50000000
+		}
+	]
+}
